@@ -1,0 +1,18 @@
+[27/Oct/2020:21:32:02] (I): WordPress Instance Info:
+[27/Oct/2020:21:32:02] (I): Home URL : http://w-blog.test
+[27/Oct/2020:21:32:02] (I): Site URL : http://w-blog.test
+[27/Oct/2020:21:32:02] (I): WordPress Version : 5.5.1
+[27/Oct/2020:21:32:02] (I): Onboarding Version : 1.0.11
+[27/Oct/2020:21:32:02] (I): Multisite : No
+[27/Oct/2020:21:32:02] (I): Server Info : Apache/2.4.35 (Win64) OpenSSL/1.1.1b PHP/7.2.19
+[27/Oct/2020:21:32:02] (I): PHP Version : 7.2.19
+[27/Oct/2020:21:32:02] (I): HTTPS : No
+[27/Oct/2020:21:32:02] (I): PHP Max Execution Time : 36000
+[27/Oct/2020:21:32:02] (I): PHP Max Input Vars : 1000
+[27/Oct/2020:21:32:02] (I): Max Upload Size : 2147483648
+[27/Oct/2020:21:32:02] (I): Plugins:
+[27/Oct/2020:21:32:02] (I): [PLUGIN] Click to Chat : v2.12.1 (HoliThemes)
+[27/Oct/2020:21:32:02] (I): [PLUGIN] GTranslate : v2.8.60 (Soluciones de traducción multilingüe basadas en Inteligencia Artificial )
+[27/Oct/2020:21:32:02] (I): [PLUGIN] Templates Patterns Collection : v1.0.11 (ThemeIsle)
+[27/Oct/2020:21:32:02] (I): [PLUGIN] Orbit Fox Companion : v2.10.0 (ThemeIsle)
+[27/Oct/2020:21:32:02] (I): [PLUGIN] WPForms Lite : v1.6.3.1 (WPForms)
